@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.69449585.css",
-    "main.js": "/static/js/main.3be7604c.js",
-    "static/js/453.5fa4475e.chunk.js": "/static/js/453.5fa4475e.chunk.js",
-    "static/media/back_top.png": "/static/media/back_top.c87d12bfdcd6b4a7d7e6.png",
-    "index.html": "/index.html",
-    "main.69449585.css.map": "/static/css/main.69449585.css.map",
-    "main.3be7604c.js.map": "/static/js/main.3be7604c.js.map",
-    "453.5fa4475e.chunk.js.map": "/static/js/453.5fa4475e.chunk.js.map"
+    "main.css": "/farlight-/static/css/main.e2d83ecf.css",
+    "main.js": "/farlight-/static/js/main.72e706e1.js",
+    "static/js/453.5fa4475e.chunk.js": "/farlight-/static/js/453.5fa4475e.chunk.js",
+    "static/media/back_top.png": "/farlight-/static/media/back_top.c87d12bfdcd6b4a7d7e6.png",
+    "index.html": "/farlight-/index.html",
+    "main.e2d83ecf.css.map": "/farlight-/static/css/main.e2d83ecf.css.map",
+    "main.72e706e1.js.map": "/farlight-/static/js/main.72e706e1.js.map",
+    "453.5fa4475e.chunk.js.map": "/farlight-/static/js/453.5fa4475e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69449585.css",
-    "static/js/main.3be7604c.js"
+    "static/css/main.e2d83ecf.css",
+    "static/js/main.72e706e1.js"
   ]
 }
