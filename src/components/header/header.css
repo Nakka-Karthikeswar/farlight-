@@ -1,0 +1,93 @@
+.nav{
+    position: relative;
+     
+}
+header {background: #202121;}
+nav{
+    position: fixed;
+    top: 0;
+}
+.nav-container{
+    justify-content: flex-start;
+}
+
+
+.pur a{
+    color: #CBFF3F;
+}
+nav ul{
+    padding: 8px 0;
+}
+nav ul li{
+    border-radius: 5px;
+    padding:10px 15px;
+}
+nav ul li.skew{
+    transform: skew(-19deg);
+}
+
+nav ul li a{
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-family: far;
+    color: #B3B3B3;
+    border-radius: 10px; 
+    margin: 0 8px;       
+}
+.logo a img{
+    max-width: 75%;
+    display: block;
+}
+.logo-span{
+    position: absolute;
+    left: -45px;
+}
+
+.logo-span img{
+    max-width: 85%;
+ }
+.logo-bd .skew {
+    padding: 4px 20px;
+}
+.logo-bd img {
+    width: 30px;
+}
+
+.logo-bd img, .budy-img, .budy a{
+   transform: skewX(19deg); 
+}
+
+.budy {
+    background-color: #CBFF3F;
+}
+.budy a{
+    background-color: #CBFF3F;
+    color: #202121;
+}
+
+
+
+.plyno {
+    background-image: url(../../../public/images/btn-play-now.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    right: -44px;
+    top: 0;
+    min-width: 235px;
+    min-height: 70px;
+    text-align: center;
+    padding: 10px 0;
+}
+.plyno a{
+    font-family: far;
+    font-size: 28px;
+    font-style: italic;
+    color: #202121;
+}
+
+
+
+
+

@@ -1,0 +1,47 @@
+
+
+
+.bnr{
+    background: url(../../../public/images/back_top.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0 70px 0;
+}
+
+.ins-bnr{
+    margin-left: 120px;
+}
+.solgan{
+    margin-bottom: 40px;
+   
+}
+.solgan img{
+    max-width: 603px;
+}
+.download{
+    justify-content: start;
+    align-items: end;
+}
+.itm{
+     align-items: end;
+     margin-right: 10px;
+}
+.cross-play{
+    margin-bottom: 5px;
+}
+.pltfrm{
+    /* background: url(../../../public/images/btn-play-now.png); */
+    background:#CBFF3F;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 10px 103px;
+}
+
+
+
+.pltfrm p{
+    font-family: far;
+    font-size:16px;
+}
